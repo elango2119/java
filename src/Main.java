@@ -9,7 +9,6 @@ public class Main {
             c = a / b;
         } catch (ArithmeticException e) {
             System.out.println("Error: Divide by 0 not allowed");
-
         }
     }
 }
