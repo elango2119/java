@@ -1,5 +1,4 @@
-import java.util.*;
-public class Main {
+public class exceptionhandling {
     public static void main(String[] args) {
         int a = 21;
         int b = 0;
