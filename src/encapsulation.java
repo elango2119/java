@@ -1,6 +1,6 @@
 //Encapsulation
-import java.util.*;
-public class oops {
+
+public class encapsulation {
 
         private int age;
         private String name;
