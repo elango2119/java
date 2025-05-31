@@ -15,7 +15,7 @@ public class functional_interface {
         message.accept("WORLD !");
 
         //SUPPLIER
-        Supplier<Double> randomno = () -> 10 * Math.random();
+        Supplier<Integer> randomno = () -> (int)  (10 * Math.random());
         System.out.println(randomno.get());
 
         //BIREDICATE
